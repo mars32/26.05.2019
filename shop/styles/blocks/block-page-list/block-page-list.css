@@ -1,0 +1,13 @@
+.block-page-list {
+    
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.block-page-list__namber {
+    height: 20px;
+    width: 20px;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+}

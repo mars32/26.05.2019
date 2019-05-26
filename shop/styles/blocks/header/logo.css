@@ -1,0 +1,9 @@
+.logo {
+    height: 70px;
+    width: 70px;
+    background: url(../../../images/icons/logo.jpg) center center / cover no-repeat;
+    margin: 10px 50px;
+}
+.logo_margin-right {
+    margin-right: 50px;
+}

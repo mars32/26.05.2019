@@ -1,0 +1,16 @@
+.block-product-list {
+    width: 100%;
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: center;
+}
+
+
+
+.block-product-list__card-product {
+    width: 25%;
+    min-height: 200px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+

@@ -1,0 +1,20 @@
+.block-futer__el__navigation {
+    display: grid;
+    padding: 10px;
+    line-height: 1.5;
+}
+
+.block-futer__el__navigation_center {
+    display: grid;
+    padding: 20px;
+    line-height: 1.5;
+    padding: 10px 80px;
+
+}
+
+.block-futer__el__navigation_center2 {
+    display: grid;
+    padding: 80px;
+    line-height: 1.5;
+
+}

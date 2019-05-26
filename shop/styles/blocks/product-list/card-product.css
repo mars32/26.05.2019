@@ -1,0 +1,53 @@
+.block-product-list__card-product__img {
+    width: 180px;
+    height: 200px;
+    border: 2px solid grey;
+    margin: 0 auto;
+    background: url() center center / cover no-repeat;
+}
+
+.pfoto1 {
+background: url(../../../images/1.jpg) center center / cover no-repeat; 
+}
+.pfoto2 {
+    background: url(../../../images/2.jpg) center center / cover no-repeat; 
+}
+.pfoto3 {
+background: url(../../../images/3.png) center center / cover no-repeat; 
+}
+.pfoto4 {
+background: url(../../../images/4.jpg) center center / cover no-repeat; 
+}
+.pfoto5 {
+background: url(../../../images/5.jpg) center center / cover no-repeat; 
+}
+.pfoto6 {
+background: url(../../../images/6.jpg) center center / cover no-repeat; 
+}
+.pfoto7 {
+background: url(../../../images/7.jpg) center center / cover no-repeat; 
+}
+.pfoto8 {
+background: url(../../../images/8.jpg) center center / cover no-repeat; 
+}
+.pfoto9 {
+background: url(../../../images/9.jpg) center center / cover no-repeat; 
+}
+.pfoto10 {
+background: url(../../../images/10.jpg) center center / cover no-repeat; 
+}
+.pfoto11 {
+background: url(../../../images/11.jpg) center center / cover no-repeat; 
+}
+.pfoto12 {
+background: url(../../../images/12.jpg) center center / cover no-repeat; 
+}
+
+.block-product-list__card-product__name {
+    text-align: center;
+    font-weight: bold;
+}
+
+.block-product-list__card-product__price {
+    text-align: center;
+}

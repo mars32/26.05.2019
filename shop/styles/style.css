@@ -1,0 +1,23 @@
+@import 'blocks/page/page.css';
+
+@import 'blocks/header/header.css';
+
+@import 'blocks/header/login-about.css';
+
+@import 'blocks/header/navigation.css';
+
+@import 'blocks/header/logo.css';
+
+@import 'blocks/block-page-list/block-page-list.css';
+
+@import 'blocks/futer/futer.css';
+
+@import 'blocks/product-list/card-product.css';
+
+@import 'blocks/futer/futer_navigation.css';
+
+@import 'blocks/sector/sector.css';
+
+@import 'blocks/selection/selection.css';
+
+@import 'blocks/product-list/producy-list.css';

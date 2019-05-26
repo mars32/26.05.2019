@@ -1,0 +1,32 @@
+.block-selection {
+    height: 100px;
+    text-align: center;
+}
+
+.block-selection__categori {
+    width: 200px;
+    border: none;
+    border-bottom: 3px solid black;
+    font-size: 18px;
+    margin: 0 20px;
+    font-family: Comfortaa;
+    font-style: italic;
+}
+.block-selection__size {
+    width: 200px;
+    border: none;
+    border-bottom: 3px solid black;
+    font-size: 18px;
+    margin: 0 20px;
+    font-family: Comfortaa;
+    font-style: italic;
+}
+.block-selection__price {
+    width: 200px;
+    border: none;
+    border-bottom: 3px solid black;
+    font-size: 18px;
+    margin: 0 20px;
+    font-family: Comfortaa;
+    font-style: italic;
+}

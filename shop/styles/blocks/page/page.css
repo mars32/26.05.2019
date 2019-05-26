@@ -1,0 +1,24 @@
+@font-face {
+    src: url(../../../font/Comfortaa-Regular.ttf);
+    font-family: 'Comfortaa';
+}
+
+body {
+    background: rgb(211, 210, 210);
+    font-family: Comfortaa;
+}
+
+.wraper {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: white;
+}
+
+.main-link_orange {
+    color: orange;
+}
+
+.flex-cont {
+    display: flex;
+    flex-wrap: wrap;
+}

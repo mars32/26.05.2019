@@ -1,0 +1,26 @@
+.header__loginbasket {
+    display: flex;
+    margin-right: 10px;
+}
+.header__loginbasket__login {
+    display: flex;
+    margin: 0 10px;
+    align-items: center;
+}
+.header__loginbasket__bascet {
+    display: flex;
+    margin: 0 10px;
+    align-items: center;
+}
+
+.header__loginbasket__login__ico {
+    height: 20px;
+    width: 20px;
+    background: url(../../../images/icons/account.png) center center /cover no-repeat;
+}
+
+.header__loginbasket__bascet__ico {
+    height: 20px;
+    width: 20px;
+    background: url(../../../images/icons/bascet.png) center center /cover no-repeat;
+}
