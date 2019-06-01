@@ -17,7 +17,7 @@ $DB_PASS,
 $DB_NAME
 );
 
-mysqli_set_charset($link, "utf-8");
+mysqli_set_charset($link, "utf-16");
 
 $query = 'SELECT * FROM goods';
 
@@ -34,4 +34,3 @@ if(count($res['goods']) === 0){
 mysqli_close($link);
 
 die(json_encode($res));
-?>
